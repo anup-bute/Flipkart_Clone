@@ -327,3 +327,6 @@ header .cart svg{
     .subfooter{
         cursor: pointer;
     }
+.subfooter img{
+        width: 100%;
+}
